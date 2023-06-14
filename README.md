@@ -8,7 +8,7 @@ With over a decade of substantial experience in software development and a focus
 
 ### 💡 Experience 
 
-My experience has been on sectors such as academia, e-commerce, business management, and data visualization. Notable roles include:
+My experience has been in sectors such as academia, e-commerce, business management, and data visualization. Notable roles include:
 
 - **Software Architect Frontend at Orcid**: Contributed to the open-source platform widely used in the global academic community. 
 - **Frontend Lead at Arrived Jobs**: Led an international team in the implementation of a complex calendar scheduler tool.
