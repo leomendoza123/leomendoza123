@@ -6,9 +6,9 @@
 
 With over a decade of substantial experience in software development and a focus on Angular since 2016, my journey has been one of continuous learning, growth, and contribution. I have worked as a software architect, full-stack developer, and technical leader, developing and refining various applications used by hundreds of thousands of users worldwide every day.
 
-### 💡 Expertise 
+### 💡 Experience 
 
-My expertise spans sectors such as academia, e-commerce, business management, and data visualization. Notable roles include:
+My experience has been on sectors such as academia, e-commerce, business management, and data visualization. Notable roles include:
 
 - **Software Architect Frontend at Orcid**: Contributed to the open-source platform widely used in the global academic community. 
 - **Frontend Lead at Arrived Jobs**: Led an international team in the implementation of a complex calendar scheduler tool.
